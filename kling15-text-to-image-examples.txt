@@ -1,0 +1,8 @@
+An old painter wearing a beret stands in front of an easel and looks intently in the golden sunset golden hour light, bokeh lighting, cinematic
+A large grey-haired wolf dog wearing a blue collar happily runs on the dark path in the winter bare forest in the morning sunlight, beautiful texture, god long shot
+A scientist dressed in a white coat holds a test tube and focuses on conducting experiments in a high-tech laboratory, it is 8 am science fiction aesthetics, clinical tones and a dystopian atmosphere.
+A French chef dressed in traditional chef's attire holds a pan in his aromatic kitchen of a Parisian restaurant. This scene is depicted in the style of a 20th-century political poster, with a glowing background and rich textures.
+Two cats, a persian cat and a himalayan flame, sleeping on an oval cushion in a sunlitted living room on a warm winter afternoon, everyday scene life with rich detail and a domestic atmosphere
+An explorer wearing a hat and adventure clothes stands at dazzling height looking at ancient symbols in a surrealist style with muted colors and a wide-angle perspective
+A furry polar bear standing on the icy tundra at winter sun setting into the distance, it in impressionist style with soft tones, in a medium shot.
+A pink-white lotus blossom gently blooming on the water's surface radiating calm and serenity floating among green leaves, in a cinematic style with soft colors, in a close-up view
