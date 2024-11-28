@@ -7,6 +7,7 @@ This repository contains comprehensive guides for generating prompts for various
 2. [Text-to-Image Generation](#text-to-image-generation)
 3. [Text-to-Video Generation](#text-to-video-generation)
 4. [Image-to-Video Generation](#image-to-video-generation)
+5. [Kling GUI Tips (camera controls and more)](https://docs.qingque.cn/d/home/eZQDT9y_PeLL-HOb7fWz1POgu)
 
 ## Overview
 
