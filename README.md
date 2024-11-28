@@ -1,6 +1,6 @@
 # Kling1.5 PromptAgent
 
-A specialized prompt generation system for text-to-image, text-to-video, and image-to-video AI models, powered by Claude. This agent utilizes the ACEHOLOFS virtual filesystem and ACE methodology for optimized prompt generation.
+A specialized prompt generation system for text-to-image, text-to-video, and image-to-video AI models, powered by Claude. This agent utilizes the ACE-HOLOFS (Holographic Filesystem) and ACE methodology (Adaptive Capacity Elicitation) for optimized prompt generation. This can be used with other good LLM's with some modification, it can also be extended, by providing new Prompt examples to the relevant .txt files.
 
 ## Overview
 
@@ -35,7 +35,7 @@ Kling1.5 PromptAgent is designed to generate high-quality, structured prompts fo
 
 ## Verification
 
-To verify successful installation, start a new conversation and ask Claude to perform a system check. The agent should initialize its virtual filesystem and confirm all modules are available.
+To verify successful installation, start a new conversation and ask Claude to perform a system check. The agent should initialize its holographic filesystem and confirm all modules are available.
 
 ## Usage
 
@@ -48,7 +48,7 @@ For detailed usage instructions, please refer to our tutorial guides:
 
 ## System Architecture
 
-The system uses a virtual filesystem (HOLOFS) and Adaptive Capacity Elicitation (ACE) methodology to maintain consistent prompt generation quality. The project manifest ensures proper initialization of all components in each new conversation.
+The system uses a holographic filesystem (HOLOFS) and Adaptive Capacity Elicitation (ACE) methodology to maintain consistent prompt generation quality. The project manifest ensures proper initialization of all components in each new conversation.
 
 ## Contributing
 
