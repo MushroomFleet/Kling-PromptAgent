@@ -1,5 +1,4 @@
 # Kling 1.5 Prompt Agent
-<br/>
 ![Kling-PromptAgent Demo](images/example.png)
 
 A specialized prompt generation system for text-to-image, text-to-video, and image-to-video AI models, powered by Claude. This agent utilizes the ACE-HOLOFS (Holographic Filesystem) and ACE methodology (Adaptive Capacity Elicitation) for optimized prompt generation. This can be used with other good LLM's with some modification, it can also be extended, by providing new Prompt examples to the relevant .txt files.
